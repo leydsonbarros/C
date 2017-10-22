@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492219506 source:/home/leydsonbarros/Documentos/Linguagens/C/contadeagua/main.c
+	<stdio.h>
+	<stdlib.h>
+
