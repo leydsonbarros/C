@@ -1,5 +1,5 @@
 /*Graduando em Engenharia da Computação, Técnico em Eletrônica e em Redes de Computadores. 
-Pessoa apaixonada por tecnologia e amante da patinação.:)*/
+Pessoa apaixonada por tecnologia e amante da patinação.*/
 
 #include <stdio.h>
 #include <stdlib.h>
